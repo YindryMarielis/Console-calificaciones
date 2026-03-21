@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Console calificaciones/Console calificaciones.vcxproj" />
+  <Project Path="Console calificaciones/Console calificaciones.vcxproj" Id="a704a7bf-00eb-420e-a8ce-29a8675cd1ef" />
 </Solution>
